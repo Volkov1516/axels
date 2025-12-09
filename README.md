@@ -1,26 +1,24 @@
 # AXELS
 
 ## Description
-My trainee application at the Axels.
+A trainee application developed during my time at Axels Soft.
 
 ## Features
-- Mock data layout
-- Login forms
-- Comments
+- Product catalog with categories and filtering
+- Product detail pages with rating and comments
+- Shopping cart functionality
+- User authentication and profile
+- Responsive UI layout
 
 ## Technologies
-- HTML/CSS
-- Styled components
-- TypeScript
-- React (hooks)
-- Redux (toolkit, redux-saga)
-- Bootstrap
-- router-dom
-- formik
-- yup
-- axios
+- **Frontend:** HTML, CSS, TypeScript, React
+- **Styling:** Styled Components, Bootstrap
+- **State Management:** Redux Toolkit, Redux-Saga
+- **Routing:** React Router
+- **Forms & Validation:** Formik, Yup
+- **HTTP Requests:** Axios
 
 ## Installing
-- Copy the repository
+- Clone the repository
 - Install dependencies `npm install`
 - Run the project `npm start`
