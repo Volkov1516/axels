@@ -1,7 +1,7 @@
 # AXELS
 
 ## Description
-A trainee application developed during my time at Axels Soft.
+A `Front-End` trainee application developed during my time at Axels Soft.
 
 ## Features
 - Product catalog with categories and filtering
@@ -11,7 +11,7 @@ A trainee application developed during my time at Axels Soft.
 - Responsive UI layout
 
 ## Technologies
-- **Frontend:** HTML, CSS, TypeScript, React
+- **Front-End:** HTML, CSS, TypeScript, React
 - **Styling:** Styled Components, Bootstrap
 - **State Management:** Redux Toolkit, Redux-Saga
 - **Routing:** React Router
